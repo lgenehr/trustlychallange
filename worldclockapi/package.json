@@ -1,21 +1,21 @@
 {
-  "name": "worldclockapichalange",
+  "name": "worldclockapi",
   "version": "1.0.0",
-  "description": "World Clock API Chalange",
+  "description": "World Clock API",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lgenehr/worldclockapichalange.git"
+    "url": "git+https://github.com/lgenehr/trustlychallange.git"
   },
   "author": "Ludvig",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lgenehr/worldclockapichalange/issues"
+    "url": "https://github.com/lgenehr/trustlychallange/issues"
   },
-  "homepage": "https://github.com/lgenehr/worldclockapichalange#readme",
+  "homepage": "https://github.com/lgenehr/trustlychallange#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
